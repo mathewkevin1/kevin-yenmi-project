@@ -1,5 +1,10 @@
 body{
     background-color: chartreuse;
+    margin: 0;
+    background-repeat:no-repeat;
+      height: 210vh;
+       padding: 0px;
+   
 }
 
 h1, p {
@@ -21,3 +26,17 @@ form{
 
     
 }
+S
+label{
+    display: block;
+}
+select{
+    height: 5vh;
+       border: whitesmoke solid 1px;
+ padding: 2px 9px;
+    width: 56vw;
+    margin: auto;
+    border-radius:3px;
+}
+
+
