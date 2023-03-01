@@ -1,0 +1,23 @@
+body{
+    background-color: chartreuse;
+}
+
+h1, p {
+    text-align: center;
+}
+form{
+    min-height: 700px;
+    max-width: 80%;
+    background-color: powderblue; 
+    padding: 45px;
+    margin:  40px;
+
+}
+#number, #name, #email{
+    padding: 10px;
+    width: 35rem;
+    border: none;
+    border-radius: 8px;
+
+    
+}
